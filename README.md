@@ -1,3 +1,3 @@
-# NTU_FinTech_2021_Spring
+# NTU FinTech (2021, Spring)
 ## Course Website
 http://mirlab.org/jang/courses/fintech/index.asp
